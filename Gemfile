@@ -6,6 +6,7 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem 'dotenv'
 gem 'json'
+gem 'puma'
 gem 'rake'
 gem 'sinatra'
 gem 'sinatra-activerecord'
