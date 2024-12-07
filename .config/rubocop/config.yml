@@ -105,3 +105,12 @@ Rake/Desc:
 
 Style/NumericLiterals:
   Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/GlobalVars:
+  Enabled: false
+
+RSpec/HookArgument:
+  Enabled: false
