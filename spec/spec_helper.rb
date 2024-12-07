@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 ENV['RACK_ENV'] = 'test'
+ENV['SINATRA_ENV'] = 'test'
 
 require './config/environment'
 
