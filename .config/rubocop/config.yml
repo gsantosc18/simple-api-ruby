@@ -114,3 +114,6 @@ Style/GlobalVars:
 
 RSpec/HookArgument:
   Enabled: false
+
+RSpec/EmptyLineAfterFinalLet:
+  Enabled: false
