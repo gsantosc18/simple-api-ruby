@@ -11,7 +11,7 @@ module Users
     end
 
     def call
-      @user_repository.create!(name: @params[:name])
+      @user_repository.create!(name: @params['name'])
     end
   end
 end
